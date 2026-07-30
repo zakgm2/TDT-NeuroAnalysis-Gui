@@ -40,3 +40,7 @@ Developed as part of an undergraduate literature review and lab course at Concor
 ## Related Projects
 
 - **[PhysicsAnalysisGUI](https://github.com/zakgm2/PhysicsAnalysisGUI)** — the actively maintained successor; a PyQt6 desktop app supporting TDT fiber photometry, Oxysoft/Artinis NIRS, generic tabular data, and more, built on shared logic from [PhysicsLibrary](https://github.com/zakgm2/PhysicsLibrary).
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
